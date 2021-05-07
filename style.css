@@ -1,6 +1,14 @@
 h2{
   color:rgb(32,134,247);
 }
+h3{
+  color:darkgrey;
+  text-decoration-line:underline;
+}
 h4{
-  size:24px;
+  size:42px;
+}
+h5{
+  text-transform:capitalize;
+  color:red; 
 }

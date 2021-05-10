@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <div class="top">
+      <h1>BenjaminWatts1's webpage</h1>
+    </div>
+    <div class="spacer"></div>
+    <div class="img">
+      <img src="/pictures/download.jpeg" height="250"width="250">
+      <p class="imgcred">google_images</p>
+    </div>
+    <h4>What type of programming I do.</h4>
+    <uo>
+      <li>python</li>
+      <li>html</li>
+      <li>Javascript</li>
+      <li>css</li>
+    </uo>
+    <h4>This is what I do in my spare time.</h4>
+    <p>I like to take videos from youtube and edit them so they are shorter or have a new sound alltogether. I make them louder or quieter. </p>
+    <a class="trim" href="https://audiotrimmer.com/" target="_blank">Visit Audio Trimmer</a>
+    <h4>I also make them louder or quieter.</h4>
+    <a class="trim" href="https://audiotrimmer.com/" target="_blank">Visit MP3 louder</a>
+    <h4>I also to turn youtube videos into audio mp3s.</h4>
+    <a class="trim" href="https://yt1s.com/youtube-to-mp3/en2" target="_blank">Visit yt1s Youtube To MP3</a>
+    <p>These are really the best Audio tools I've found for what I do and it helps for songs for games sounds for games. Sounds for clicks or for a button or for achievements...etc</p>
+     <br/>
+    <p>Here are a few songs you can enjoy while you look through the website.</p>
+    <div class="song1">
+      <h2>Terminite-Beastmode</h2>
+      <a href="https://www.youtube.com/embed/wWN6hZu9jjE?autoplay=1" target="sndtrk"><img src="./pictures/play.png" width="24" border="0"></a> 
+
+      <a href="nothing.html" target="sndtrk"><img src="./pictures/stop.png" width="24" border="0"></a>
+
+      <iframe name="sndtrk" width="0" height="0" src="https://www.youtube.com/embed/wWN6hZu9jjE" frameborder="0">audio not available</iframe>
+      <br/><br/>
+      <a class="trim" 
+      href="https://www.youtube.com/watch?v=wWN6hZu9jjE"  target="_blank">Watch Terminite-Beastmode On Youtube</a>
+      <h3 class="cred">By:DubStepGutter</h3>
+    </div>
+    <h2>terminite & panda eyes-highscore</h2>
+    <a href="https://www.youtube.com/embed/Qg1qZq5yjps?autoplay=1" target="sndtrk2"><img src="./pictures/play.png" width="24" border="0"></a> 
+
+    <a href="nothing.html" target="sndtrk2"><img src="./pictures/stop.png" width="24" border="0"></a>
+
+    <iframe name="sndtrk2" width="0" height="0" src="https://www.youtube.com/embed/Qg1qZq5yjps" frameborder="0">audio not available</iframe>
+    <br/><br/>
+    <a class="trim" 
+    href="https://www.youtube.com/watch?v=Qg1qZq5yjps"  target="_blank">Watch Terminite & Panda Eyes-highscore On Youtube</a>
+    <h3 class="cred">By: DubStepGutter</h3>
+    <h2>Sekai-Break Me</h2>
+    <a href="https://www.youtube.com/embed/r35M6AI5S2A?autoplay=1" target="sndtrk3"><img src="./pictures/play.png" width="24" border="0"></a> 
+
+    <a href="nothing.html" target="sndtrk3"><img src="./pictures/stop.png" width="24" border="0"></a>
+
+    <iframe name="sndtrk3" width="0" height="0" src="https://www.youtube.com/embed/r35M6AI5S2A" frameborder="0">audio not available</iframe>
+    <br/><br/>
+    <a class="trim" 
+    href="https://www.youtube.com/watch?v=r35M6AI5S2A"  target="_blank">Watch Sekai-Break Me On Youtube</a>
+    <h3 class="cred">By: Sekai</h3>
+    <h2>Shattered</h2>
+    <a href="https://www.youtube.com/embed/Q6D_Girbs_E?autoplay=1" target="sndtrk4"><img src="./pictures/play.png" width="24" border="0"></a> 
+
+    <a href="nothing.html" target="sndtrk4"><img src="./pictures/stop.png" width="24" border="0"></a>
+
+    <iframe name="sndtrk4" width="0" height="0" src="https://www.youtube.com/embed/Q6D_Girbs_E" frameborder="0">audio not available</iframe>
+    <br/><br/>
+    <a class="trim" 
+    href="https://www.youtube.com/watch?v=Q6D_Girbs_E"  target="_blank">Watch Shattered On Youtube</a>
+    <h3 class="cred">By: Shgurr</h3>
+    <br/>
+    <p>Those are just a few let me know if you want me to put more in. Its easy and I don't mind.😁</p>
+    <br/>
+    <h4>This is a little bit about me.</h4>
+    <p>Hello My name is Benjamin Watts. I am an amateur programmer. So forgive me if I have mispelled anything or have something messed up in the code. If that happens tell me right away and I will fix it. 
+    </p>
+    <p>Now that that is out of the way, here is some things you might like to know. I go by the online name of Shadowfang95. I mainly do html and python programs because I am lazy. But..come on who isn't lazy now adays. So I stick with what I'm good at editing audio and makeing websites.</p>
+    <p>I love the EDM's and trap songs. I also like to have fun and hang out with friends. Now I know by now I must be boring you with things that I like and don't like but it will get more interesting as you go through this website.
+    <h5>(Hopefully)😁</h5>
+    <p>I will be posting dayly hopfully. so there will be many updates to come.</p>
+    <br/>
+    <p></p>
+    
+  </body>
+</html>

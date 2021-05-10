@@ -1,0 +1,14 @@
+base code:
+    <h2>****TITLE****</h2>
+    <a href="https://www.youtube.com/embed/****VIDEOID****?autoplay=1" target="sndtrk****NEXT#****"><img src="./pictures/play.png" width="24" border="0"></a> 
+
+    <a href="nothing.html" target="sndtrk****NEXT#****"><img src="./pictures/stop.png" width="24" border="0"></a>
+
+    <iframe name="sndtrk****NEXT#****" width="0" height="0" src="https://www.youtube.com/embed/****VIDEOID****" frameborder="0">audio not available</iframe>
+    <br/><br/>
+    <a class="trim" 
+    href="https://www.youtube.com/****VIDEOID****"  target="_blank">Watch ****TITLE**** On Youtube</a>
+    <h3 class="cred">By: ****ARTIST****</h3>
+
+    fill in the blank :)
+    the next number should be _5_

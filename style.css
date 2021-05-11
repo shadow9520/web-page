@@ -1,3 +1,6 @@
+html{
+  background-color:burlywood;
+}
 body{
   margin: 0px;
 }
@@ -9,13 +12,26 @@ body{
   position: fixed;
   width: 100%;
   margin: 0px;
+  
+}
+p2{
+  background-color:gold;
+}
+.p1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  border:3px inset grey ;
+  background-color:darkred;
+  color:white;
 }
 .top h3{
   justify-self: inherit;
   text-align: center
 }
 .spacer{
-  background-color: white;
   height: 100px;
 }
 .img{
@@ -23,6 +39,9 @@ body{
   text-align: right;
 }
 .img img{
+  border:3px solid black;
+  outline:2px solid black;
+  outline-offset:4px;
   justify-self: center;
   display: block;
   margin-left: auto;
@@ -52,19 +71,22 @@ body{
 .songone{
 
 }
-iframe{
+h2{
+  color:darkblue;
+}
+.song{
   justify-self: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: auto;
+  width: 580;
 }
-h2{
-  color:darkblue;
+
+.copyr{
+  height: 100px;
+  width: 100%;
+  background-color:black;
 }
-h3{
-  color:gray;
-}
-h1{
-  color:gold;
+.copyr p{
+  color: white;
 }

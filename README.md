@@ -21,11 +21,25 @@ also u can add new pause/play button just name them the same and deleate the old
 
 
 
+html
+Navigation bar
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+css
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+Hey Elliot can you add this into the code so I can have a navigation bar?
 
 
 
-https://replit.com/@BenjaminWatts1/web-page#pictures/download.jpeg
 
-https://replit.com/@BenjaminWatts1/web-page#pictures/stop.png
 
-https://replit.com/@BenjaminWatts1/web-page#index.html
+Reminder, To benjamin watts: The old man consequences = aften turning into springtrap if spedup.
